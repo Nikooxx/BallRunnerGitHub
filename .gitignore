@@ -52,8 +52,11 @@ BallRunner/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
 BallRunner/Content/StarterContent/Blueprints/BP_LightStudio.uasset
 BallRunner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
 BallRunner/Content/StarterContent/Maps/Advanced_Lighting.umap
+BallRunner/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset
 BallRunner/Content/StarterContent/Maps/Minimal_Default.umap
+BallRunner/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
 BallRunner/Content/StarterContent/Maps/StarterMap.umap
+BallRunner/Content/StarterContent/Maps/StarterMap_BuiltData.uasset
 BallRunner/Content/StarterContent/Materials/M_AssetPlatform.uasset
 BallRunner/Content/StarterContent/Materials/M_Basic_Floor.uasset
 BallRunner/Content/StarterContent/Materials/M_Basic_Wall.uasset
